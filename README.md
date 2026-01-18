@@ -1,0 +1,2 @@
+# Strapi_training
+Strapi

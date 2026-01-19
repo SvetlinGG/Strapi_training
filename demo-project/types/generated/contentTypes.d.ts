@@ -635,7 +635,7 @@ export interface ApiGlobalGlobal extends Struct.SingleTypeSchema {
 export interface ApiReviewReview extends Struct.CollectionTypeSchema {
   collectionName: 'reviews';
   info: {
-    displayName: 'review';
+    displayName: 'reviews';
     pluralName: 'reviews';
     singularName: 'review';
   };
